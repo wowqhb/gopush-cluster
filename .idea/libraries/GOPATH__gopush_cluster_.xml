@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gopush-cluster&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gopath/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/.gopath/src/github.com/golang/net/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/golang/net/html/testdata" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/garyburd/redigo/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/nagae-memooff/config/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/alecthomas/log4go/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/golang/net/http2/testdata" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/wowqhb/gopush-cluster/.idea" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/nagae-memooff/log4go/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/pquerna/ffjson/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/nagae-memooff/surgemq/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/golang/net/html/charset/testdata" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/golang/glog/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/Terry-Mao/goconf/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/samuel/go-zookeeper/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/surgemq/message/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/Terry-Mao/gopush-cluster/.git" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/golang/net/bpf/testdata" />
+      <root url="file://$USER_HOME$/.gopath/src/github.com/wowqhb/gopush-cluster/.git" />
+    </excluded>
+  </library>
+</component>

@@ -26,8 +26,8 @@ import (
 	"time"
 
 	log "github.com/alecthomas/log4go"
-	"github.com/Terry-Mao/gopush-cluster/ketama"
-	myrpc "github.com/Terry-Mao/gopush-cluster/rpc"
+	"github.com/wowqhb/gopush-cluster/ketama"
+	myrpc "github.com/wowqhb/gopush-cluster/rpc"
 	"github.com/garyburd/redigo/redis"
 )
 

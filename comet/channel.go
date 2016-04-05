@@ -19,10 +19,10 @@ package main
 import (
 	log "github.com/alecthomas/log4go"
 	"errors"
-	"github.com/Terry-Mao/gopush-cluster/hash"
-	"github.com/Terry-Mao/gopush-cluster/hlist"
-	"github.com/Terry-Mao/gopush-cluster/ketama"
-	myrpc "github.com/Terry-Mao/gopush-cluster/rpc"
+	"github.com/wowqhb/gopush-cluster/hash"
+	"github.com/wowqhb/gopush-cluster/hlist"
+	"github.com/wowqhb/gopush-cluster/ketama"
+	myrpc "github.com/wowqhb/gopush-cluster/rpc"
 	"sync"
 )
 
